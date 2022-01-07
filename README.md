@@ -1,2 +1,2 @@
 # Unemployment-Rate-prediction
-Using time series model and GNN model to predict future unemployment rate.
+Using time series model and LSTM model to predict future unemployment rate.
